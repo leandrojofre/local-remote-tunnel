@@ -23,7 +23,7 @@ Before proceeding, make sure to make a copy of the `server/.env.example` file in
 If you leave `PUBLIC_HOST` blank instead (like `PUBLIC_HOST=`), the app will try to find and use your IPv4 adress by itself, but is not recommended since it can be innacurate, making the app not work.
 
 ### Windows and Linux
-From the repository root, do one of the next two to run the aoo (after creating the `server/.env` file).
+From the repository root, do one of the next two to run the app (after creating the `server/.env` file).
 
 Double click the file (Windows):
 ```bat
