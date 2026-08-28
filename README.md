@@ -9,7 +9,6 @@ I don't like that most options are one or more of:
 - Setup is overcomplicated.
 
 ## Prerequisites
-rs
 - Node.js
   - Install from https://nodejs.org/
   - Or, if you have Chocolatey installed: `choco install nodejs-lts -y`
