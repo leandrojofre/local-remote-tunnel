@@ -20,6 +20,8 @@ Right now, only Windows is supported, but Linux should work too.
 
 Before proceeding, make sure to make a copy of the `server/.env.example` file inside the `server/` folder, rename the copy to `server/.env`, and inside the file modify the value of `PUBLIC_HOST` to the IPv4 of your hosting device. It sounds complicate, but you can find it going to the properties of your Wi-Fi inside the device, it should look like `192.168.x.x`.
 
+If you leave `PUBLIC_HOST` blank instead (like `PUBLIC_HOST=`), the app will try to find and use your IPv4 adress by itself, but is not recommended since it can be innacurate, making the app not work.
+
 ### Windows and Linux
 From the repository root, do one of the next two to run the aoo (after creating the `server/.env` file).
 
