@@ -1,0 +1,18 @@
+<form id="share-file" class="flex-container flex-column" method="post" enctype="multipart/form-data">
+    <label class="flex-container flex-column gap-0">
+        <span>Filename override</span>
+        <input type="text" name="filename" id="share-file-filename">
+    </label>
+
+    <label class="flex-container flex-column gap-0">
+        <span>Select the file</span>
+
+        <div class="flex-container">
+            <input type="file" name="file" id="share-file-selector" style="flex-grow: 1">
+            <button type="button" id="share-file-selector-clear" class="bg-darken-red">Clear</button>
+        </div>
+    </label>
+
+    <button type="submit">Share File</button>
+    <div class="flex-container flex-column d-none" id="share-file-history"></div>
+</form>

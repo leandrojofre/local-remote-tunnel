@@ -1,0 +1,20 @@
+{
+  "name": "pc-mobile-local-tunnel",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 6969",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^8.1.1"
+  },
+  "dependencies": {
+    "jquery": "^4.0.0",
+    "sweetalert2": "^11.26.25",
+    "toastr": "^2.1.4"
+  }
+}

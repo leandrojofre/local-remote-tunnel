@@ -1,0 +1,8 @@
+{
+    "js/ts.tsdk.promptToUseWorkspaceVersion": true,
+    "js/ts.tsdk.path": "./client/node_modules/typescript/lib",
+    "cSpell.words": [
+        "Swal",
+        "sweetalert"
+    ],
+}
