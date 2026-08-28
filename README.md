@@ -17,14 +17,14 @@ I don't like that most options are one or more of:
 Right now, only Windows is supported.
 Feel free to contribute with executable options for any missing OS.
 
-### Windows
+### Windows and Linux
 From the repository root. Do one of the next two.
-Double click the file:
+Double click the file (Windows):
 ```bat
-run.bat
+run-win-linux.bat
 ```
 
 From the terminal, run:
 ```bat
-./run.bat
+./run-win-linux.bat
 ```
