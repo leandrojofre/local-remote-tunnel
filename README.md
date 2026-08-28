@@ -14,8 +14,7 @@ I don't like that most options are one or more of:
   - Or, if you have Chocolatey installed: `choco install nodejs-lts -y`
 
 ## Setup
-Right now, only Windows is supported.
-Feel free to contribute with executable options for any missing OS.
+Right now, only Windows is supported, but Linux should work too.
 
 ### Windows and Linux
 From the repository root. Do one of the next two.
