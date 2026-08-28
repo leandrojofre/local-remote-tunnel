@@ -19,6 +19,7 @@ Feel free to contribute with executable options for any missing OS.
 
 ### Windows and Linux
 From the repository root. Do one of the next two.
+
 Double click the file (Windows):
 ```bat
 run-win-linux.bat
