@@ -26,11 +26,11 @@ If you leave `PUBLIC_HOST` blank instead (like `PUBLIC_HOST=`), the app will try
 From the repository root, do one of the next two to run the app (after creating the `server/.env` file).
 
 Double click the file (Windows):
-```bat
-run-win-linux.bat
+```sh
+run-win-linux.sh
 ```
 
 From the terminal, run:
-```bat
-./run-win-linux.bat
+```sh
+bash run-win-linux.sh
 ```
